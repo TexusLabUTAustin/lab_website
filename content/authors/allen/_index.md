@@ -17,4 +17,6 @@ social:
     icon: envelope
 email: li1995@stanford.edu
 superuser: false
+user_groups:
+  - Grad Students
 ---
